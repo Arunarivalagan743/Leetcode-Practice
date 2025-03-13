@@ -19,7 +19,7 @@
 //        Explanation: There are 2 positive integers and 3 negative integers. The maximum count among them is 3.
 
 
-import java.util.*;]
+import java.util.*;
 
 public class CountPositiveAndNegative {
     public int maximumCount(int[] nums) {
